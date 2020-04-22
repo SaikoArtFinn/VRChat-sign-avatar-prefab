@@ -8,7 +8,7 @@ Prefabs for VRChat Desktop Avatars especially for ASL signing
 * [Desktop Sign Avatar]: untiy package ready to import
 -------------
 ## how to set it up?
-click the link [here](https://youtu.be/emIKgP7HGlk) for the tutorial
+click the link [here](https://youtu.be/_DS7C2CK8sU) for the tutorial
 
 -------------
 Prefabs made by SaikoArt_Finn
