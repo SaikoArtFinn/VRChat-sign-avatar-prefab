@@ -12,7 +12,8 @@ click the link [here](https://youtube.com) for the tutorial
 
 -------------
 Prefabs made by SaikoArt_Finn
-/to be up-to-date you can see [here](https://github.com/SaikoArtFinn/VRChat-sign-avatar-prefab/releases) the newest release
+
+to be up-to-date you can see [here](https://github.com/SaikoArtFinn/VRChat-sign-avatar-prefab/releases) the newest release
 
 -------------
 i take commissions for custom sign animations
