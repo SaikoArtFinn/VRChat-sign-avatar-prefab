@@ -1,7 +1,7 @@
 # VRChat-sign-avatar-prefab
 Prefabs for VRChat Desktop Avatars especially for ASL signing
 * Built in Unity 2018.4.20f1
-* no use of an external plugin besides the [VRChatSDK2](https://vrchat.com/download/sdk) 
+* no use of an external plugin besides the [VRChat SDK2](https://vrchat.com/download/sdk) 
 -------------
 * [ASL written Signs]: if you want just the written sign package
 * [Desktop pen]: If you only want the desktop pen package
