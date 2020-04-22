@@ -1,7 +1,7 @@
 # VRChat-sign-avatar-prefab
 Prefabs for VRChat Desktop Avatars especially for ASL signing
-Built in Unity 2018.4.20f1
-no use of an external plugin besides the VRCSDK2
+* Built in Unity 2018.4.20f1
+* no use of an external plugin besides the VRCSDK2
 
 ## how to set it up?
 click the link [here](https://youtube.com) for the tutorial
