@@ -1,3 +1,4 @@
+If you need any support feel free to join my [Discord](https://discord.gg/VGCRe6gsXJ)Server
 # VRChat-sign-avatar-prefab
 Prefabs for VRChat Desktop Avatars especially for ASL signing
 * Built in Unity 2018.4.20f1
